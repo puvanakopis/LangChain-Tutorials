@@ -1,6 +1,7 @@
-langchain==0.2.10
-langchain-openai==0.1.17
-python-dotenv==1.0.1
-langchain-groq==0.1.6
+langchain
+langchain-openai
+python-dotenv
+langchain-groq
 google-generativeai
 langchain-google-genai
+langchain-core
